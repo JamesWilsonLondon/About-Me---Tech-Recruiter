@@ -28,8 +28,8 @@ I co-host WhatNext.dev, a podcast dedicated to software engineering careers, hir
 
 📌 For Startups: Need to build an exceptional engineering team? Get in touch!
 
-💬 DM me on LinkedIn: James Wilson
+💬 [DM me on LinkedIn: James Wilson](https://www.linkedin.com/in/james-wilson-92170656/)
 
-📧 Email: james.wilson@robertwalters.com
+📧 james.wilson@robertwalters.com
 
 🎙️ [Podcast: WhatNext.dev](https://www.whatnext.dev)
