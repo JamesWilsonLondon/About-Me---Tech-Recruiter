@@ -32,4 +32,4 @@ I co-host WhatNext.dev, a podcast dedicated to software engineering careers, hir
 
 📧 Email: james.wilson@robertwalters.com
 
-🎙️ Podcast: WhatNext.dev
+🎙️ [Podcast: WhatNext.dev](https://www.whatnext.dev)
